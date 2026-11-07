@@ -1,0 +1,6 @@
+{
+  "name": "Apex Tuition Academy - Online Learning & Administration Portal",
+  "description": "Comprehensive online tuition management system featuring student dashboards, progress tracking, live class notifications, attendance, assignments, video lessons, and an admin management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
